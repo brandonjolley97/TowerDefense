@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/brand/source/repos/TowerDefense/TowerDefense/Content/Fonts/MenuFont.spritefont</File>
+    <File>C:/Users/brand/source/repos/TowerDefense/TowerDefense/Content/Fonts/PointFont.spritefont</File>
+    <File>C:/Users/brand/source/repos/TowerDefense/TowerDefense/Content/Fonts/TurretMenuFont.spritefont</File>
+    <File>C:/Users/brand/source/repos/TowerDefense/TowerDefense/Content/Images/BlasterSprite.png</File>
+    <File>C:/Users/brand/source/repos/TowerDefense/TowerDefense/Content/Images/BlueCreep2Moving.png</File>
+    <File>C:/Users/brand/source/repos/TowerDefense/TowerDefense/Content/Images/BlueCreepMoving.png</File>
+    <File>C:/Users/brand/source/repos/TowerDefense/TowerDefense/Content/Images/BlueFlyingMoving.png</File>
+    <File>C:/Users/brand/source/repos/TowerDefense/TowerDefense/Content/Images/BombLauncherProjectile.png</File>
+    <File>C:/Users/brand/source/repos/TowerDefense/TowerDefense/Content/Images/BombLauncherResized.png</File>
+    <File>C:/Users/brand/source/repos/TowerDefense/TowerDefense/Content/Images/BombLauncherUpgrades.png</File>
+    <File>C:/Users/brand/source/repos/TowerDefense/TowerDefense/Content/Images/BossMoving.png</File>
+    <File>C:/Users/brand/source/repos/TowerDefense/TowerDefense/Content/Images/FlyingCreepResized.png</File>
+    <File>C:/Users/brand/source/repos/TowerDefense/TowerDefense/Content/Images/GreenCreep2Moving.png</File>
+    <File>C:/Users/brand/source/repos/TowerDefense/TowerDefense/Content/Images/GreenCreepMoving.png</File>
+    <File>C:/Users/brand/source/repos/TowerDefense/TowerDefense/Content/Images/GreenFlyingMoving.png</File>
+    <File>C:/Users/brand/source/repos/TowerDefense/TowerDefense/Content/Images/GruntCreepResized.png</File>
+    <File>C:/Users/brand/source/repos/TowerDefense/TowerDefense/Content/Images/MachineGunProjectile.png</File>
+    <File>C:/Users/brand/source/repos/TowerDefense/TowerDefense/Content/Images/MachineGunProjectile2.png</File>
+    <File>C:/Users/brand/source/repos/TowerDefense/TowerDefense/Content/Images/MachineGunResized.png</File>
+    <File>C:/Users/brand/source/repos/TowerDefense/TowerDefense/Content/Images/MachineGunUpgrades.png</File>
+    <File>C:/Users/brand/source/repos/TowerDefense/TowerDefense/Content/Images/MissileLauncherProjectile.png</File>
+    <File>C:/Users/brand/source/repos/TowerDefense/TowerDefense/Content/Images/MissileLauncherResized.png</File>
+    <File>C:/Users/brand/source/repos/TowerDefense/TowerDefense/Content/Images/MissileLauncherUpgrades.png</File>
+    <File>C:/Users/brand/source/repos/TowerDefense/TowerDefense/Content/Images/PinkPixel.jpg</File>
+    <File>C:/Users/brand/source/repos/TowerDefense/TowerDefense/Content/Images/RadiusTexture.png</File>
+    <File>C:/Users/brand/source/repos/TowerDefense/TowerDefense/Content/Images/RailgunProjectile.png</File>
+    <File>C:/Users/brand/source/repos/TowerDefense/TowerDefense/Content/Images/RailgunResized.png</File>
+    <File>C:/Users/brand/source/repos/TowerDefense/TowerDefense/Content/Images/RailgunUpgrades.png</File>
+    <File>C:/Users/brand/source/repos/TowerDefense/TowerDefense/Content/Images/RedCreep2Moving.png</File>
+    <File>C:/Users/brand/source/repos/TowerDefense/TowerDefense/Content/Images/RedCreepMoving.png</File>
+    <File>C:/Users/brand/source/repos/TowerDefense/TowerDefense/Content/Images/RedFlyingMoving.png</File>
+    <File>C:/Users/brand/source/repos/TowerDefense/TowerDefense/Content/Images/SingleGridSquare.png</File>
+    <File>C:/Users/brand/source/repos/TowerDefense/TowerDefense/Content/Images/StatCurrent.png</File>
+    <File>C:/Users/brand/source/repos/TowerDefense/TowerDefense/Content/Images/StatUpgrade.png</File>
+    <File>C:/Users/brand/source/repos/TowerDefense/TowerDefense/Content/Images/TankCreepResized.png</File>
+    <File>C:/Users/brand/source/repos/TowerDefense/TowerDefense/Content/Images/TurretSelectedAnimation.png</File>
+    <File>C:/Users/brand/source/repos/TowerDefense/TowerDefense/Content/Images/YellowCreep2Moving.png</File>
+    <File>C:/Users/brand/source/repos/TowerDefense/TowerDefense/Content/Images/YellowCreepMoving.png</File>
+    <File>C:/Users/brand/source/repos/TowerDefense/TowerDefense/Content/Images/YellowFlyingMoving.png</File>
+    <File>C:/Users/brand/source/repos/TowerDefense/TowerDefense/Content/Tiles/BottomLeftCornerTile.png</File>
+    <File>C:/Users/brand/source/repos/TowerDefense/TowerDefense/Content/Tiles/BottomRightCornerTile.png</File>
+    <File>C:/Users/brand/source/repos/TowerDefense/TowerDefense/Content/Tiles/HorizontalTile.png</File>
+    <File>C:/Users/brand/source/repos/TowerDefense/TowerDefense/Content/Tiles/MiddleTile.png</File>
+    <File>C:/Users/brand/source/repos/TowerDefense/TowerDefense/Content/Tiles/RegularTile.png</File>
+    <File>C:/Users/brand/source/repos/TowerDefense/TowerDefense/Content/Tiles/TopLeftCornerTile.png</File>
+    <File>C:/Users/brand/source/repos/TowerDefense/TowerDefense/Content/Tiles/TopRightCornerTile.png</File>
+    <File>C:/Users/brand/source/repos/TowerDefense/TowerDefense/Content/Tiles/VerticalTile.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
